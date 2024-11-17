@@ -1,0 +1,3 @@
+0 4 * * * /home/admin/your_script.sh > /home/admin/cronjob.log 2>&1
+
+
